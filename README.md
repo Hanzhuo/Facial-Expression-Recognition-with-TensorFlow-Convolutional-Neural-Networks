@@ -2,7 +2,7 @@
 
 **TensorFlow** is an open-source library developed by Google <https://www.tensorflow.org/>
 
-This project is for one of my acdemic courses. The detailed Python scripts are showed in **`CNN_Facial_Expression_Recogonition.ipynb`**. This project used TensorFlow library to train Convolutional Neural Networks (use Softmax regression as classifier). The data is from one of Kaggle challenges [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data). There are seven facial expression in this dataset, and specific information is showed in Jupyter Notebook.
+This project is for one of my acdemic courses. The detailed Python scripts and sample results are showed in **`CNN_Facial_Expression_Recogonition.ipynb`**. This project used TensorFlow library to train Convolutional Neural Networks (use Softmax regression as classifier). The data is from one of Kaggle challenges [here](https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data). There are seven facial expression in this dataset, and specific information is showed in Jupyter Notebook.
 
 
 **The CNN model structure is showed below:**
