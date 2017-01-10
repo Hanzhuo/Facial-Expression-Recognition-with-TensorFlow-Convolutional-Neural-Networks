@@ -10,6 +10,6 @@ This project is for one of my acdemic courses. The detailed Python scripts and s
 ![CNN model](https://github.com/Hanzhuo/Facial-Expression-Recognition-with-TensorFlow-Convolutional-Neural-Networks/blob/master/ImageDocument/cnn_flow.png)
 
 **Results:**
-The optimal number of iteration steps of training this CNN model is around 3000. Training 3000 iteration steps' model needs around 6 hours (8GB Intel i5-4210U 1.70GHz * 4 CPU only). Using this notebook scripts can get different accuracy each time. The accuracy of the best model that I trained can reach around 68%. 
+The optimal number of iteration steps of training this CNN model is around 3000. Training 3000 iteration steps' model needs around 6 hours (8GB Intel i5-4210U 1.70GHz * 4 CPU only). Using this notebook scripts can get different accuracy each time. The result in the notebook just show one of these different resutls. The accuracy of the best model that I trained can reach around 68%. 
 
 ![The highest accuracy](https://github.com/Hanzhuo/Facial-Expression-Recognition-with-TensorFlow-Convolutional-Neural-Networks/blob/master/ImageDocument/accuracy_68%25.png)
